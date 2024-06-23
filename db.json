@@ -1,0 +1,64 @@
+{
+  "books": [
+    {
+      "id": "8f4a",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "author": "J.K. Rowling",
+      "description": "Harry Potter and the Philosopher's Stone is the first novel in the Harry Potter series, written by British author J.K. Rowling."
+    },
+    {
+      "id": "b7e9",
+      "title": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "description": "The Lord of the Rings is an epic high-fantasy novel by English author J.R.R. Tolkien, set in the world of Middle-earth."
+    },
+    {
+      "id": "e63d",
+      "title": "1984",
+      "author": "George Orwell",
+      "description": "1984 is a dystopian novel by English author George Orwell, depicting a totalitarian regime."
+    },
+    {
+      "id": "a92c",
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "description": "Pride and Prejudice is a romantic novel by Jane Austen, first published in 1813."
+    },
+    {
+      "id": "5b16",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "description": "To Kill a Mockingbird is a novel by Harper Lee, published in 1960. It deals with themes of racial injustice and moral growth."
+    },
+    {
+      "id": "f8d7",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "description": "The Catcher in the Rye is a novel by J.D. Salinger, first published in 1951. It follows teenager Holden Caulfield's experiences in New York City."
+    },
+    {
+      "id": "73b0",
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "description": "The Great Gatsby is a novel by F. Scott Fitzgerald, set in the Jazz Age on Long Island, New York."
+    },
+    {
+      "id": "c4e7",
+      "title": "The Chronicles of Narnia",
+      "author": "C.S. Lewis",
+      "description": "The Chronicles of Narnia is a series of seven fantasy novels by C.S. Lewis, set in the fictional realm of Narnia."
+    },
+    {
+      "id": "29f8",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "description": "Dune is a science fiction novel by American author Frank Herbert, set in the distant future amidst a sprawling interstellar society."
+    },
+    {
+      "id": "12a5",
+      "title": "The Da Vinci Code",
+      "author": "Dan Brown",
+      "description": "The Da Vinci Code is a mystery thriller novel by Dan Brown, featuring symbologist Robert Langdon."
+    }
+  ]
+}
