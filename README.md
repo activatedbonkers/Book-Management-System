@@ -7,15 +7,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - Node.js (version 12 or higher)
 - npm or yarn
 
-### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/book-management-app.git
-    cd book-management-app
-    ```
-
-2. Install dependencies:
+## Install dependencies:
     ```bash
     npm install
     # or
