@@ -2,6 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Running the App
+
+1. Start JSON Server to serve the mock backend:
+    ```bash
+    npx json-server --watch db.json --port 5001
+    ```
+
+2. Start the React app:
+    ```bash
+    npm start
+    # or
+    yarn start
+    ```
+
+3. Open your browser and go to `http://localhost:3000`.
+
 ## Available Scripts
 
 In the project directory, you can run:
